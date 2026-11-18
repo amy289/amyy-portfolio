@@ -1,0 +1,16 @@
+LAB 1 SUBMISSION CHECKLIST
+[ ] Four pages created: Home, About, Projects, Contact
+[ ] Semantic HTML used
+[ ] Shared CSS linked correctly on every page
+[ ] Responsive navigation works
+[ ] Three project cards included
+[ ] Contact form HTML validation tested
+[ ] Theme toggle tested
+[ ] Project copied into XAMPP htdocs
+[ ] Apache started and site opened through localhost
+[ ] DevTools Elements and Console inspected
+[ ] Network tab confirms CSS and JS load
+[ ] At least three meaningful Git commits made
+[ ] GitHub repository pushed
+[ ] At least three screenshots captured
+[ ] Lab report completed with actual test results
